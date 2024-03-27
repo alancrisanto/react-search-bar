@@ -1,8 +1,8 @@
+# React Search Bar
+
 # React + Vite
 
-# Project Name
-
-Short description of the project.
+A search bar to look for user's names.
 
 ## Table of Contents
 
