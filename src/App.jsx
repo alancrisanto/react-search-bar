@@ -9,6 +9,11 @@ function App() {
 
 	return (
 		<div className="app">
+			<div className="glitch-wrapper">
+				<div className="glitch" data-glitch="React Search Bar">
+					React Search Bar
+				</div>
+			</div>
 			<div className="search-bar-container">
 				<SearchBar ShowResults={setResults} />
 				<SearchResultsList results={results} />
